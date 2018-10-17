@@ -29,4 +29,7 @@ $ gauge init python
 $ gauge run specs
 </pre>
 
+<pre>
+ $ gauge install xml-report
+</pre>
 
